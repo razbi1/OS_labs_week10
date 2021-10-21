@@ -1,0 +1,11 @@
+.:
+
+file1:
+link1
+
+file2:
+
+link1:
+file1
+
+..:
